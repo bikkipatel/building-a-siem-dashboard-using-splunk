@@ -111,7 +111,7 @@ This project demonstrates how Splunk Enterprise can be used as a lightweight SIE
 
 ## Author
 
-Vikki Verma
+Bikki Patel
 
 ## GitHub Repository
 
